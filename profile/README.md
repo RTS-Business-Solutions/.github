@@ -12,4 +12,4 @@ Velkommen til RTS Business Solutions.
 - AIMS Guides
 
 ## Support
-Kontakt support@rts-solutions.eu
+Kontakt henrik@rts-solutions.eu
