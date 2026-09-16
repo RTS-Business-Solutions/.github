@@ -5,7 +5,7 @@ Welcome to RTS Repositories
 ## ISV
 | ISV Projects | Description |
 |----------|-------------|
-| [Vensafe Docs](https://github.com/RTS-Business-Solutions Dokumentation til RTS Vensafe |
+| [Vensafe Docs](https://github.com/RTS-Business-Solutions/Vensafe)| Dokumentation til RTS Vensafe |
 | [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | Business løsning |
 | [Multipay](https://github.com/RTS-Business-Solutions/Multipay) | Multipay |
 
