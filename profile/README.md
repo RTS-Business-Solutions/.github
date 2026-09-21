@@ -12,9 +12,6 @@ Welcome to RTS Repositories
 | [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | ESL Solutions |
 | [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/aimssaas-docs) | Documentation for ESL Solution |
 
-- RTS DVM
-- RTS Vensafe  
-- AIMS SaaS
 
 ## Customer Projects
 - comming 
