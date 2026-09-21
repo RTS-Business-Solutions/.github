@@ -12,7 +12,6 @@ Welcome to RTS Repositories
 - RTS DVM
 - RTS Vensafe  
 - AIMS SaaS
-- Multipay Integration
 
 ## Dokumentation
 - DVM Docs
