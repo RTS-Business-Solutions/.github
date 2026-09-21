@@ -6,11 +6,11 @@ Welcome to RTS Repositories
 | ISV Projects | Description |
 |----------|-------------|
 | [DVM](https://github.com/RTS-Business-Solutions/DVM) | RTS DVM |
-| [DVM Docs](https://github.com/RTS-Business-Solutions/DVM_Docs) | Documentation to RTS DVM |
+| [DVM Docs](https://github.com/RTS-Business-Solutions/dvm-docs) | Documentation to RTS DVM |
 | [Vensafe](https://github.com/RTS-Business-Solutions/Vensafe) | RTS Vensafe |
-| [Vensafe Docs](https://github.com/RTS-Business-Solutions/Vensafe_Docs) | Documentation til RTS Vensafe |
+| [Vensafe Docs](https://github.com/RTS-Business-Solutions/vensafe-docs) | Documentation til RTS Vensafe |
 | [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | Business løsning |
-| [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/AIMSSaaS_Docs) | Business løsning |
+| [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/aimssaas-docs) | Business løsning |
 
 - RTS DVM
 - RTS Vensafe  
