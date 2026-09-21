@@ -8,7 +8,6 @@ Welcome to RTS Repositories
 | [DVM_Docs](https://github.com/RTS-Business-Solutions/DVM) | Documentation to RTS DVM |
 | [Vensafe Docs](https://github.com/RTS-Business-Solutions/Vensafe)| Documentation til RTS Vensafe |
 | [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | Business løsning |
-|----------|-------------|
 
 - RTS DVM
 - RTS Vensafe  
