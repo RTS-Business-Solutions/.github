@@ -9,8 +9,8 @@ Welcome to RTS Repositories
 | [DVM Docs](https://github.com/RTS-Business-Solutions/dvm-docs) | Documentation to RTS DVM |
 | [Vensafe](https://github.com/RTS-Business-Solutions/Vensafe) | RTS Vensafe |
 | [Vensafe Docs](https://github.com/RTS-Business-Solutions/vensafe-docs) | Documentation til RTS Vensafe |
-| [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | Business løsning |
-| [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/aimssaas-docs) | Business løsning |
+| [AIMS SaaS](https://github.com/RTS-Business-Solutions/AIMSSaaS) | ESL Solutions |
+| [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/aimssaas-docs) | Documentation for ESL Solution |
 
 - RTS DVM
 - RTS Vensafe  
