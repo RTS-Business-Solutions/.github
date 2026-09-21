@@ -16,10 +16,8 @@ Welcome to RTS Repositories
 - RTS Vensafe  
 - AIMS SaaS
 
-## Dokumentation
-- DVM Docs
-- Vensafe Docs
-- AIMS Guides
+## Customer Projects
+- comming 
 
 ## Support
 Kontakt henrik@rts-solutions.eu
