@@ -18,8 +18,7 @@ Welcome to RTS Repositories
 |----------|-------------|
 | [[GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)]|
 | [Custom Report]([https://github.com/RTS-Business-Solutions/GN_CustomsReport]()) |  |
-| [ |  |
-| [[[https://github.com/RTS-Business-Solutions/GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA)](https://github.com/RTS-Business-Solutions/GN_VISMA)](https://github.com/RTS-Business-Solutions/DVM) |  |
+| [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA)] |  |
 
 ## Support
 Kontakt henrik@rts-solutions.eu
