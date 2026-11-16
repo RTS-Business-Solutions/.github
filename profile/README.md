@@ -14,11 +14,11 @@ Welcome to RTS Repositories
 
 
 ## Go Nordic
-| Repositories |
-|------------|
-| [GN_GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
-| [GN_Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) |
-| [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) |
+| Repositories | DevOps Name |
+|------------|------------|
+| [GN_GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)| [GNCL_POSModification](https://dev.azure.com/RetailITS/GoNordic/_git/GNCL_POSModification) |
+| [GN_Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) | [GoNordic](https://dev.azure.com/RetailITS/GoNordic/_git/GoNordic) |
+| [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) | [GoNordicVisma](https://dev.azure.com/RetailITS/GoNordic/_git/GoNordicVisma) |
 
 ## Support
 Kontakt henrik@rts-solutions.eu
