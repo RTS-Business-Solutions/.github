@@ -14,8 +14,8 @@ Welcome to RTS Repositories
 
 
 ## Go Nordic
-| Repository |   |
-|------------|-------------|          
+| Repository |
+|------------|
 | [GN_GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
 | [GN_Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) |
 | [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) |
