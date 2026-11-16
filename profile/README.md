@@ -16,7 +16,7 @@ Welcome to RTS Repositories
 ## Customer Projects
 | Customer | Project |
 |----------|-------------|
-| [[GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
+| [GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
 | [Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) |  |
 | [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) |  |
 
