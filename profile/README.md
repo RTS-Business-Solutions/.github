@@ -13,11 +13,11 @@ Welcome to RTS Repositories
 | [AIMS SaaS Docs.](https://github.com/RTS-Business-Solutions/esl-docs) | Documentation for ESL Solution |
 
 
-## Customer Projects
-| Customer | Project |
-|----------|-------------|
-| [GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
-| [Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) |  |
+## Go Nordic
+| Repository |   |
+|------------|-------------|          
+| [GN_GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)|
+| [GN_Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) |  |
 | [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) |  |
 
 ## Support
