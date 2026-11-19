@@ -19,7 +19,7 @@ Welcome to RTS Repositories
 | [GN_GNCL](https://github.com/RTS-Business-Solutions/GN_GNCL)| [GNCL_POSModification](https://dev.azure.com/RetailITS/GoNordic/_git/GNCL_POSModification) |
 | [GN_Custom Report](https://github.com/RTS-Business-Solutions/GN_CustomsReport) | [GoNordic](https://dev.azure.com/RetailITS/GoNordic/_git/GoNordic) |
 | [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_VISMA) | [GoNordicVisma](https://dev.azure.com/RetailITS/GoNordic/_git/GoNordicVisma) |
-| [GN_VISMA](https://github.com/RTS-Business-Solutions/GN_BookingIntegration) | [GoNordicVisma](https://dev.azure.com/RetailITS/GoNordic/_git/BookingIntegration) |
+| [BookingIntegration](https://github.com/RTS-Business-Solutions/GN_BookingIntegration) | [BookingIntegration](https://dev.azure.com/RetailITS/GoNordic/_git/BookingIntegration) |
 
 ## Support
 Kontakt henrik@rts-solutions.eu
